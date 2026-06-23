@@ -1,25 +1,26 @@
-# macOS metadata
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# KiCad temporary/cache/lock files
-fp-info-cache
-*-backups/
-**/*-backups/
-*.lck
-~*.lck
-*.kicad_pcb-bak
-*.sch-bak
+# Windows
+Thumbs.db
+desktop.ini
 
-# Generic temporary files
+# Editor / backup files
 *.tmp
-*.temp
 *.bak
-*.log
+*.swp
+~$*
 
-# Python/editor artifacts
+# KiCad generated/cache/lock files
+fp-info-cache
+*.lck
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Python cache, if code is added later
 __pycache__/
+*.py[cod]
 .ipynb_checkpoints/
-.vscode/
-.idea/
