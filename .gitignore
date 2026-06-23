@@ -1,0 +1,25 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# KiCad temporary/cache/lock files
+fp-info-cache
+*-backups/
+**/*-backups/
+*.lck
+~*.lck
+*.kicad_pcb-bak
+*.sch-bak
+
+# Generic temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Python/editor artifacts
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
