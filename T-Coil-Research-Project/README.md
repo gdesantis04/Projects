@@ -1,10 +1,10 @@
 # PCB-Embedded T-Coil for Expanding Channel Bandwidth
 
-This repository contains the design files and documentation for a PCB-embedded bridged T-coil project. The goal of the project was to compensate for heavy load capacitance, such as capacitance introduced by ESD protection, and improve high-frequency channel bandwidth using PCB-embedded inductors.
+This repository contains the design files and documentation for a PCB-embedded bridged T-coil project. The goal of the project was to compensate for heavy load capacitance, such as capacitance introduced by ESD protection, and improve high-frequency channel bandwidth using PCB-embedded inductors. 
 
 ## Project Summary
 
-The project investigates a bridged T-coil implemented with PCB transmission-line structures. The design was supported by simulation and layout work, then validated through fabricated-board measurements. The final result showed that the fabricated T-coils reduced loss on channels with parasitic capacitance.
+The project investigates a bridged T-coil implemented with PCB transmission-line structures. The design was supported by simulation and layout work, then validated through fabricated-board measurements. The final result showed that the fabricated T-coils reduced loss on channels with parasitic capacitance. We tried to implement the same technique that Nvidia is using on SERDES chips on transmission lines in the Gigahertz range. Our advisor for this project was Dr. Thanh Tran at Rice University. 
 
 ## Repository Structure
 
