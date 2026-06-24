@@ -38,6 +38,9 @@ T-Coil-Research-Project/
 - Ansys HFSS and Siemens HyperLynx for simulation and electromagnetic design support
 - Vector network analyzer measurements for experimental validation
 
+## Endorsement by Dr. Tran
+https://www.linkedin.com/feed/update/urn:li:activity:7458952096684404736/
+
 ## Authors
 
 Mitchell Hoffman, Zheng Wei Low, and Guido De Santis  
